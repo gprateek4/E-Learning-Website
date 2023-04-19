@@ -4,7 +4,7 @@
 [On Youtube](https://youtu.be/QxZxHUf7c_0)
 
 ## Authors
-Prajwal Patil
-Prajjwal Yadav
-Prateek Gupta
+1.Prajwal Patil
+2.Prajjwal Yadav
+3.Prateek Gupta
 
