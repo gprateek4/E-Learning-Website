@@ -5,6 +5,10 @@
 
 ## Authors
 1.Prajwal Patil<br>
-2.Prajjwal Yadav
-3.Prateek Gupta
-
+2.Prajjwal Yadav<br>
+3.Prateek Gupta<br>
+<ol>
+  <li>Prajwal Patil</li>
+  <li>Prajjwal Yadav</li>
+  <li>Prateek Gupta</li>
+</ol>
