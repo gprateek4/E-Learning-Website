@@ -14,7 +14,7 @@
 </ol>
 
 ### home page
-[cover image](e%20Learn/home%20page.png)
+![cover image](e%20Learn/home%20page.png)
 
 [profile]
 
