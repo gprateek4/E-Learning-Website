@@ -13,4 +13,4 @@
   <li>Prateek Gupta</li>
 </ol>
 
-![cover image](e Learn/home page.png)
+![cover image](e-Learn/home page.png)
