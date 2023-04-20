@@ -21,4 +21,4 @@
 
 ![cover image](notebooks/figures/PDSH-cover.png)
 
-![cover image](e-Learn/home-page.png)
+![cover image](e%20Learn/home%20page.png)
