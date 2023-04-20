@@ -1,12 +1,7 @@
-# Complete User Login & Registration system using PHP and MySQL database
+# SyncXcel : e-Learning web site with quizes
 
+## Team members
 
-[On Youtube](https://youtu.be/QxZxHUf7c_0)
-
-## Authors
-1.Prajwal Patil<br>
-2.Prajjwal Yadav<br>
-3.Prateek Gupta<br>
 <ol>
   <li>Prajwal Patil</li>
   <li>Prajjwal Yadav</li>
@@ -34,8 +29,7 @@
 ### quiz5
 ![quiz5](e%20Learn/quiz5.png)
 
-
+### Profile
 ![Rama](e%20Learn/profile.png)
 
 
-![cover image]
